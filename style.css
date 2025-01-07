@@ -1,0 +1,40 @@
+.top{
+    border:1px solid black;
+    margin:0px 10px 0px;
+    padding:0px 10px 0px;
+}
+.top h1{
+    text-decoration: underline;
+    font-size: 40px;
+    
+}
+.top p,a{
+    font-size: 24px;
+}
+
+a{
+    color: black;
+}
+.image{
+    /* border:1px solid black; */
+    margin:0px 10px 0px;
+    padding:0px 10px 0px;
+}
+.image h1{
+    text-decoration: underline;
+    font-size: 40px;
+}
+.image a{
+    font-size: 24px;
+}
+.trivia{
+    margin:0px 10px 0px;
+    padding:0px 10px 0px;
+}
+.trivia h1{
+    text-decoration: underline;
+    font-size: 40px;
+}
+li{
+    font-size: 24px;
+}
